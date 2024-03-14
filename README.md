@@ -1,3 +1,8 @@
 # giftcard
 
-Datasets of sampled data from 2021 and the first 2 weeks of 2022; Digital card orders is the parent record for order item, where order items contains individual gift card level information; along with a jupyter notebook processing the dataset and performing trend analysis and total price forecast. 
+## What to expect in this repository?
+1. Order_items.csv, a dataset which contains information on individual gift card, includes variables such as unique id, created date, product currency, sender name, delivery type, recipient name, recipient email, recipient address, and more. The data ranges from 01-01-2021 to 01-14-2022.
+
+2. Digital_card_orders.csv, the parent record of Order_items.csv, includes data such as unique id, created date, order_id, status, country and language. All data ranges from 01-01-2021 to 01-14-2022.
+   
+3. A jupyter notebook to showcase data manipulation and pre-processing, time series decomposition and analysis, as well as forecast model building and fine-tuning. 
