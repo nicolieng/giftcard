@@ -13,4 +13,4 @@ My data analysis project focused on time series analysis and time series forecas
 
 
 ## What is the source of the data?
-The two data files are provided by a company who specializes in providing technology solutions in revolutionalizing the digital gift card industry. 
+The data files are provided by a company who specializes in providing technology solutions in revolutionalizing the digital gift card industry. 
