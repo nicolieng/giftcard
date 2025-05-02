@@ -1,7 +1,7 @@
 # giftcard
 
 ## Problem Statement 
-Given the giftcard purchase data from 01-01-2021 to 01-14-2022, predict the value in monthly total purchases for the rest of 2022.
+To support strategic planning and resource allocation, this project aims to forecast monthly gift card purchase values for the remainder of 2022, using historical purchase data from January 1, 2021, to January 14, 2022. The goal is to equip the Finance team with accurate, currency-specific projections to better manage cash flow, plan inventory, and optimize marketing efforts.
 
 ## What are the highlights from this project?
 This project focuses on time series analysis and forecasting, where I processed historical data and developed predictive models using classical approaches—AR, ARIMA, SARIMA—as well as Meta's Prophet model. After comparing and validating these methods, I identified the optimal model to help stakeholders anticipate future performance, enabling more efficient resource allocation and strategic planning. Despite initial challenges with model selection due to data constraints, my efforts led to accurate forecasts of total gift card purchases (by denomination) across four currencies, delivering remarkable value to the Finance team.
