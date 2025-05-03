@@ -4,15 +4,11 @@
 To support strategic planning and resource allocation, this project aims to forecast monthly gift card purchase values for the remainder of 2022, using historical purchase data from January 1, 2021, to January 14, 2022. The goal is to equip the Finance team with accurate, currency-specific projections to better manage cash flow, plan inventory, and optimize marketing efforts.
 
 ## ✨ Project Highlights
-Applied time series forecasting using ARIMA, SARIMA, and Prophet models.
-
-Processed and modeled gift card purchase data individually across four currencies to capture distinct seasonality and trend patterns.
-
-Compared model performance through validation metrics and selected the best-performing model for each currency.
-
-Tackled challenges such as sparse data periods and evolving demand patterns, ensuring model robustness.
-
-Built reproducible workflows for data preprocessing, model training, evaluation, and visualization.
+- Applied time series forecasting using ARIMA, SARIMA, and Prophet models.
+- Processed and modeled gift card purchase data individually across four currencies to capture distinct seasonality and trend patterns.
+- Compared model performance through validation metrics and selected the best-performing model for each currency.
+- Tackled challenges such as sparse data periods and evolving demand patterns, ensuring model robustness.
+- Built reproducible workflows for data preprocessing, model training, evaluation, and visualization.
 
 ## 📈 Outcomes & Impact
 Using time series models (ARIMA, SARIMA, Prophet), we achieved an X% improvement in forecast accuracy compared to previous methods. This enabled the Finance team to:
