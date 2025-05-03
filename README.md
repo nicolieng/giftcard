@@ -31,4 +31,3 @@ Using time series models (ARIMA, SARIMA, Prophet), we achieved an 14% improvemen
 
 ## 🔍 Data Source
 Gift card transaction records collected between January 1, 2021, and January 14, 2022. Each record includes purchase amount, currency, timestamp, and more.
-The data is provided by a digital gift card company. 
