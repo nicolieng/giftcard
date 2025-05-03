@@ -11,15 +11,12 @@ To support strategic planning and resource allocation, this project aims to fore
 - Built reproducible workflows for data preprocessing, model training, evaluation, and visualization.
 
 ## 📈 Outcomes & Impact
-Using time series models (ARIMA, SARIMA, Prophet), we achieved an X% improvement in forecast accuracy compared to previous methods. This enabled the Finance team to:
+Using time series models (ARIMA, SARIMA, Prophet), we achieved an 14% improvement in forecast accuracy compared to previous methods. This enabled the Finance team to:
 
-Accurately project monthly gift card purchases across 4 currencies for the rest of 2022.
-
-Optimize cash flow management and adjust inventory levels in anticipation of seasonal spikes.
-
-Support more informed budgeting and marketing decisions for key promotional periods.
-
-Identify a trend of increased demand during Q4, allowing stakeholders to proactively plan resources.
+- Accurately project monthly gift card purchases across 4 currencies for the rest of 2022.
+- Optimize cash flow management and adjust inventory levels in anticipation of seasonal spikes.
+- Support more informed budgeting and marketing decisions for key promotional periods.
+- Identify a trend of increased demand during Q4, allowing stakeholders to proactively plan resources.
 
 
 
